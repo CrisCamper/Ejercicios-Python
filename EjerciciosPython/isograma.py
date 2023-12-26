@@ -89,3 +89,19 @@
     #shopping[1:2] = ['Pastel', 'Vino']
     #print(shopping)
 
+# Search element
+# With Function .index()
+
+    #shopping = ['Huevos', 'Pan', 'Aceite']
+    #print(shopping.index('Huevos')) # Me imprimirá el indice del elemento
+
+# Exercise, Determine if a string is an isogram (no letters are repeated)
+
+    #isogram = list(input('Input a word: '))
+    #
+    #for letter in isogram:
+    #    if isogram.count(letter) > 1:
+    #        print("Isn't an isogram")
+    #        break
+    #else:
+    #    print('Is an isogram')
