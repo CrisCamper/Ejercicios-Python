@@ -1,6 +1,6 @@
 # Programa que pida numero de columnas y filas para mostrar una matriz
-number_files = 3 # (rows = filas) dato de numero de filas
-number_columnes = 6# Dato de número de columnas
+number_files = int(input('Ingrese un becerro numero de filas: ')) # (rows = filas) dato de numero de filas
+number_columnes = int(input('Ingrese el berraco numero de columnas 🦴: ')) # Dato de número de columnas
 
 print(' _'* number_columnes) # Imprimimos los '_' al inicio
 
