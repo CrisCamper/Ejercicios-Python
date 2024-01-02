@@ -22,8 +22,8 @@ for producto, cantidad, precio_unitario in ventas:
     # Encontrar producos con más de 10 ventas
     if cantidad >= 10:
        producto_mayor_10.add(producto)
-    
+    print({(producto):(total_producto)})
 
-print((producto,total_producto))
+print(type({'ProductoF': 1950}))
 print('Productos con más de 10 ventas:', producto_mayor_10)
 print('Ganancia total:',ganancia_total)
