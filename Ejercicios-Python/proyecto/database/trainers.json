@@ -1,0 +1,18 @@
+[
+    {
+        "identificacion": 1,
+        "nombre": "1",
+        "apellidos": "1",
+        "direccion": "1",
+        "celular": 1,
+        "fijo": 1
+    },
+    {
+        "identificacion": 2,
+        "nombre": "2",
+        "apellidos": "2",
+        "direccion": "2",
+        "celular": 2,
+        "fijo": 2
+    }
+]

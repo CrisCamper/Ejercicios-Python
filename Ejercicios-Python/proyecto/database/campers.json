@@ -1,0 +1,13 @@
+[
+    {
+        "identificacion": 1,
+        "nombre": "1",
+        "apellidos": "1",
+        "direccion": "1",
+        "acudiente": "1",
+        "celular": 1,
+        "fijo": 1,
+        "estado": "inscrito",
+        "ruta": "none"
+    }
+]
